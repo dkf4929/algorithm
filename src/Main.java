@@ -1,4 +1,4 @@
-import lv2.rate70.BinaryTranslation;
+import lv2.BinaryTranslation;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package lv1.rate50;
+package lv1;
 
 import java.util.*;
 
