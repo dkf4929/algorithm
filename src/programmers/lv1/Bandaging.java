@@ -1,4 +1,4 @@
-package lv1;
+package programmers.lv1;
 
 //어떤 게임에는 붕대 감기라는 기술이 있습니다.
 //
