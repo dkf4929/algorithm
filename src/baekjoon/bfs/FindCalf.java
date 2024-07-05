@@ -4,6 +4,11 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class FindCalf {
+    int answer = 0;
+    int[] dis = {1, -1, 5};
+    int[] ch = new int[10001];
+    Queue<Integer> Q = new LinkedList<>();
+
     public int solution(int s, int e) {
         int answer = 0;
         int[] dis = {1, -1, 5};
